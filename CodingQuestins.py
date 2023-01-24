@@ -646,3 +646,12 @@ print(compareTriplets([5,6,7],[3,6,10]))"""
 # print(obj.identify_disctance_that_can_be_travelled())
 # print(obj.identify_distance_travelled())
 # print(21%17)
+
+
+# this is a program to print even or odd
+
+a = int(input("Enter a number"))
+if (a%2==0):
+    print("even number")
+else:
+    print("odd")
